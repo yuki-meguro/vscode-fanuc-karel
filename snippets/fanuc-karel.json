@@ -99,7 +99,7 @@
       "--  Author: Yuki Meguro",
       "--",
       "--  Description:",
-      "--    Clear DOUT or FLG",
+      "--    $3",
       "--",
       "--  Dependancies: ${2:none}",
       "--  --------------------------------------",
